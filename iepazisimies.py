@@ -5,4 +5,7 @@ for i in range(1,100):
   a +=i
 #Lūdzu rakstiet šeit savu vārdu un kadu kodu python valodā
 
+
 print("labdien!!")
+=======
+print("Pirmais!!!")

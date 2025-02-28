@@ -4,3 +4,4 @@ for i in range(1,100):
   print(a)
   a +=i
 #Lūdzu rakstiet šeit savu vārdu un kadu kodu python valodā
+print("Pirmais!!!")

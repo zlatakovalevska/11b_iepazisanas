@@ -9,3 +9,6 @@ for i in range(1,100):
 print("labdien!!")
 =======
 print("Pirmais!!!")
+
+
+print("Otrais!!! - Ilja Parhomenko")

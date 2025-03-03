@@ -11,7 +11,7 @@ print("labdien!!")
 =======
 print("Pirmais!!!")
 
-
+print ("Labdien, Ariadna !")
 
 print("Otrais!!! - Ilja Parhomenko")
 

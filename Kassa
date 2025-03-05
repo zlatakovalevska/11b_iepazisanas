@@ -1,0 +1,12 @@
+atlikums = int(input("Cik atdod atlikumā: "))
+
+kassa = [50,20,10,5,2,1]
+
+a = atlikums//50
+b = (atlikums - a*50)//20
+c = (atlikums - a*50-b*20)//10
+d = (atlikums - a*50-b*20-c*10)//5
+e = (atlikums - a*50-b*20-c*10-d*5)//2
+f = (atlikums - a*50-b*20-c*10-d*5-e*2)//1
+
+print(a,b,c,d,e,f)
